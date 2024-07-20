@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @karthickmark
 - 👀 I’m interested in creating web application
-- 🌱 I’m currently learning Node.js
+- 🌱 I’m currently learning react.js and Node.js
 - 💞️ I’m looking to collaborate on real-time projects
 - 📫 How to reach me
 -      E-mail -- karthickraja2122@gamil.com
