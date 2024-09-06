@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on real-time projects
 - 📫 How to reach me
 -      E-mail -- karthickraja2122@gamil.com
--      Mobile -- 8883806327
+-      Mobile -- 9500589957
 - ⚡ Fun fact: jolly type, anime watcher.
 
 <!---
